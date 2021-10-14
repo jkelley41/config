@@ -239,4 +239,5 @@ let g:ycm_confirm_extra_conf=0
 nmap <leader>g :YcmCompleter GoTo<CR>
 nmap <leader>d :YcmCompleter GoToDefinition<CR>
 
+" ansible
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
